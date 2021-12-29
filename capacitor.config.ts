@@ -1,7 +1,7 @@
 import { CapacitorConfig } from '@capacitor/cli';
 
 const config: CapacitorConfig = {
-  appId: 'io.ionic.starter',
+  appId: 'com.example.app789',
   appName: 'photo-sharing-app',
   webDir: 'dist',
   bundledWebRuntime: false

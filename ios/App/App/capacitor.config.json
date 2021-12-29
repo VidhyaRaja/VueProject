@@ -1,0 +1,6 @@
+{
+	"appId": "com.example.app789",
+	"appName": "photo-sharing-app",
+	"webDir": "dist",
+	"bundledWebRuntime": false
+}
